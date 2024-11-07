@@ -6,11 +6,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` In career at [University of Buenos Aires](https://www.uba.ar).
-- :student: I’m currently learning `Computer Engineering`.
-- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a `junior programmer` eager to gain experience.
+- :school: Pursuing my degree at the [University of Buenos Aires](https://www.uba.ar).
+- :student: Currently studying `Computer Engineering`.
+- :technologist: I’m passionate about using software to solve `Problems`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
+- :thinking: Open to new `job opportunity`.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
